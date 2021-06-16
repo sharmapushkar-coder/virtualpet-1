@@ -55,7 +55,7 @@ function showerror(){
     dog.addImage(dog1)
     }
     else{
-      alert("FINISH THE REMAINING TO FOOD TO BUY MORE FOOD")
+      alert("FINISH THE REMAINING FOOD TO GET MORE FOOD")
     }
   }
   function feed(){
